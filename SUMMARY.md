@@ -32,6 +32,8 @@
   * [Vibranium](cubimod-sf-survival/custom-ores/vibranium.md)
 * [🎇 Other Recipes](cubimod-sf-survival/other-recipes/README.md)
   * [🍎 Enchanted Golden Apple](cubimod-sf-survival/other-recipes/enchanted-golden-apple.md)
+* [Commission / Standings](cubimod-sf-survival/commission-standings/README.md)
+  * [Common Issues](cubimod-sf-survival/commission-standings/common-issues.md)
 * [🛒 Playerwarp](cubimod-sf-survival/playerwarp.md)
 * [🆙 Rankup](cubimod-sf-survival/rankup.md)
 * [🐄 Entities Limit](cubimod-sf-survival/entities-limit.md)
@@ -42,8 +44,6 @@
 * [☕ Custom Beverage](cubimod-sf-survival/custom-beverage.md)
 * [⌨️ Commands](cubimod-sf-survival/commands.md)
 * [Custom Ore Guide](cubimod-sf-survival/custom-ore-guide.md)
-* [Commission / Standings](cubimod-sf-survival/commission-standings/README.md)
-  * [Common Issues](cubimod-sf-survival/commission-standings/common-issues.md)
 
 ## 👾 CUBIMOD (Survival) \[OUTDATED]
 
@@ -90,6 +90,8 @@
   * [⚙️ Functions](cubimod-sv-survival/fuels/functions.md)
   * [❔ How to obtain them?](cubimod-sv-survival/fuels/how-to-obtain-them.md)
   * [📕 Cooking Recipes](cubimod-sv-survival/fuels/cooking-recipes.md)
+* [Custom Enchant](cubimod-sv-survival/custom-enchant/README.md)
+  * [Enchantment List](cubimod-sv-survival/custom-enchant/enchantment-list.md)
 * [Entity Limit](cubimod-sv-survival/entity-limit.md)
 * [Rankup](cubimod-sv-survival/rankup.md)
 * [Custom Ore Guide](cubimod-sv-survival/custom-ore-guide.md)
